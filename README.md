@@ -1,2 +1,2 @@
 # Python_code
-python code
+用于存放Python代码
